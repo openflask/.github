@@ -5,7 +5,6 @@ We are an AI model training and crafting Company. This means, we are training an
 
 ## 🚀 To what can I contribute?
 Normal GitHub users can contribute to our translations and blog posts.
-* [blog-posts](https://github.com/flaskyi/blog)
 * [translations](https://github.com/flaskyi/translations)
 
 ## ✨ Links
