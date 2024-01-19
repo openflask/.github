@@ -3,7 +3,7 @@
 ## ❓ What do we do?
 We are an AI model training and crafting Company. This means, we are training and contributing to our AI models. We are mainly focused on text-to-image AI models. In the future we will start more AI model projects and projects involving AI so stay tuned and follow us to be up to date!
 
-## 🚀 To what can I contribute?
+## 🚀 What can I contribute to?
 Normal GitHub users can contribute to our translations and blog posts.
 * [translations](https://github.com/flaskyi/translations)
 
